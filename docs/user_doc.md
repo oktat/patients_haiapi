@@ -27,6 +27,7 @@ Egy páciensről a következő adatok vannak tárolva:
 * [http://localhost:8000/patients](http://localhost:8000/patients)
 
 | Végpont | Metódus | Azonosítás |
+|-|-|-|
 | patients | GET | nem |
 
 Üres body kell küldeni.
