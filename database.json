@@ -1,0 +1,86 @@
+{
+    "patients": [
+          {
+            "id": 1,
+            "name": "Kovács Anna",
+            "age": "52",
+            "bodyWeight": 63.5,
+            "bloodPressure": "120/80",
+            "pulse": 75
+          },
+          {
+            "id": 2,
+            "name": "Kiss Péter",
+            "age": "34",
+            "bodyWeight": 82.1,
+            "bloodPressure": "128/84",
+            "pulse": 82
+          },
+          {
+            "id": 3,
+            "name": "Nagy Gábor",
+            "age": "46",
+            "bodyWeight": 75.0,
+            "bloodPressure": "118/76",
+            "pulse": 68
+          },
+          {
+            "id": 4,
+            "name": "Horváth Rita",
+            "age": "28",
+            "bodyWeight": 58.2,
+            "bloodPressure": "110/72",
+            "pulse": 80
+          },
+          {
+            "id": 5,
+            "name": "Tóth Tamás",
+            "age": "39",
+            "bodyWeight": 91.8,
+            "bloodPressure": "126/80",
+            "pulse": 72
+          },
+          {
+            "id": 7,
+            "name": "Farkas Dávid",
+            "age": "41",
+            "bodyWeight": 80.5,
+            "bloodPressure": "124/83",
+            "pulse": 70
+          },
+          {
+            "id": 8,
+            "name": "Balogh Zoltán",
+            "age": "58",
+            "bodyWeight": 87.2,
+            "bloodPressure": "130/85",
+            "pulse": 80
+          },
+          {
+            "id": 9,
+            "name": "Varga Gábor",
+            "age": "29",
+            "bodyWeight": 92.1,
+            "bloodPressure": "140/90",
+            "pulse": 76
+          },
+          {
+            "id": 10,
+            "name": "Takácsné Ágnes",
+            "age": "23",
+            "bodyWeight": 73.0,
+            "bloodPressure": "118/75",
+            "pulse": 65
+          },
+          {
+            "id": 11,
+            "name": "Németh András",
+            "age": "48",
+            "bodyWeight": 85.5,
+            "bloodPressure": "126/82",
+            "pulse": 78
+          }
+    ]
+
+}
+  
